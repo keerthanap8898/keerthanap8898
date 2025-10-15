@@ -18,7 +18,7 @@
 > 
 > ③ **Also see**:
 >    - [**`Google LM Audio Summary`**](drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view) - *Tl;Dr alternative; on google-Drive*
->    - [**`Google LM - Notebook`**](notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) - *Chat-bot, pre-trained on Keerthana's profile. Feel free to privately query the bot about her work.*
+>    - [**`Google LM - Notebook`**](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) - *Chat-bot, pre-trained on Keerthana's profile. Feel free to privately query the bot about her work.*
 
  **➤ Technical Interests** : *non-exclusively,* 
 ① *`AI System Reliability`* |  ② *`Distributed Computing`* |  ③ *`Scalable Machine Learning Infrastructure`* |  ④ *`Program Analysis`* |  ⑤ *`Dataflow Optimization`* |  ⑥ *`Systems for Alignment & Verification`.*
