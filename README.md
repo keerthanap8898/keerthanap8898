@@ -35,7 +35,7 @@
 > 🍁🍂 *non-exclusively,* 🌘 `AI System Reliability`  ‖   🌗 `Distributed Computing`  ‖   🌖 `Scalable Machine Learning Infrastructure`  ‖   🌔 `Program Analysis`  ‖  🌓 `Dataflow Optimization`  ‖   🌒 `Systems for Alignment & Verification`.
 > 
 > ---
-### 🅔 🎿 **`Career`**: 𓇢𓆸𖤣𖥧✧˚𖡼𓅰⋅𓅭⋅𓅮⋅𓅯𖡼｡✧𖤣𖥧✧
+### 🅔 🎿 **`Career`**: 𓇢𓆸𖤣𖥧✧˚𖡼𓅰⋅𓅭⋅𓅮⋅𓅯𖡼｡✧𖤣𖥧𖥔
 > ```
 > 🍀 She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design. 
 > ```
