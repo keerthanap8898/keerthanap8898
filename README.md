@@ -1,5 +1,5 @@
 > > ### `(═╕҂º෴°ཀ)`═╕
-> > *Yup, I did in fact, waste a couple of hours playing with emojis for -* 𓉸ྀི݁ *`halloween`* ☠️⚰️ , 𓇢𓆸 *`fall/winter`* ༻☕❄ *, &* 𖥔𖥸 *`diwali`* 🪷🪔 *.* `˙𐃷˙`
+> > *Yup. I did in fact, waste a couple of hours playing with emojis for -* 𓉸ྀི݁ *`halloween`* ☠️⚰️ , 𓇢𓆸 *`fall/winter`* ༻☕❄ *, &* 𖥔𖥸 *`diwali`* 🪷🪔 *.* `˙𐃷˙`
 > ---
 # ➯ Keerthana Purushotham ✨
 > ### 🧛‍♀️༚🧙🏽‍♀️ *`Software Developer`* 🧟༚🧝🏽‍♀️ *`Engineer`* 🧚🏼‍♀️༚🧞‍♀️ *`Researcher`* ༚🔮𓂃🦇‿་༘࿐𖥔˖𖦹｡⋆˚✧
