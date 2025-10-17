@@ -14,8 +14,8 @@
  
 ---
 ### 🅐 🐿️ **`Resume, Portfolio & more`:** ☘︎｡⋆𓆤༉𓏲𖥔༝𖤣𖥧༚ ༘ၴ( ၴႅၴ𓏲⚘.𓇗˖﹏𓆏࿐｡☆⚘↟𖠰𓇗.𓆈ˎ⋆༝𖧧𓏲༚⚘.ཐི༏ཋྀ༄ ྀ 
-- ### 𖥔⁀➴🎆 *See a **`detailed compilation of her work`** here* 🧨 [*`keerthanap8898/bio`*`.𖥔 ݁ ˖🕸️👻.𖥔 ݁.`](https://github.com/keerthanap8898/bio#-links).
-- ### 𖥔⁀➴🎇 *Here's an **`LM-chatbot`**, pre-trained on her profile* 💥 [*`google-LM:AI Notebook`*`.˚⊹.🕷💀₊˚𖦹⋆｡`](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
+- ### ₊⊹⁀🎆 *See a full **`compilation of her work`** here* 🧨 - [*`keerthanap8898/bio`*`✧.ﾟ☾⋆｡ﾟ༝🕸️°👻𓏲༚⋅`](https://github.com/keerthanap8898/bio#-links);
+- ### ₊⊹⁀🎇 *Here's a **`google-LM notebook`**, pre-trained on her profile* 💥 - [*`chatbot`*`༚˚𖥔｡🕷༝💀.༚𖦹⋆˚`](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
 >   ╰┈┈> 🦃 *Feel free to privately query this LM-notebook about her work.*
 >     
 >   ╰┈┈> 🥧 *You will need a gmail account.*
@@ -35,7 +35,7 @@
 >   - **🌓** 🗡️ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** ⚔️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** [ *Open-source articles* ],
 >   - **🌔** [*`Instagram`*:*`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 > ---
-### 🅓 🕯️ **`Technical Interests`**: ✩𓋼𓍊₊⋆˚⚘.𓃙⋅𓃠⋅𓃥⋅𓃚'.⚘｡✧𓍊𓋼𓏲✩
+### 🅓 🕯️ **`Technical Interests`**: ✧𓋼𓍊₊⋆˚⚘.𓃙𖤓𓃠☾𓃥✩𓃚'.⚘｡𓍊𓋼𓏲✧
 > 🍁🍂 *non-exclusively,* 🌘 `AI System Reliability`  ‖   🌗 `Distributed Computing`  ‖   🌖 `Scalable Machine Learning Infrastructure`  ‖   🌔 `Program Analysis`  ‖  🌓 `Dataflow Optimization`  ‖   🌒 `Systems for Alignment & Verification`.
 > 
 > ---
