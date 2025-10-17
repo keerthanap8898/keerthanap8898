@@ -1,17 +1,21 @@
-#### `(═╕҂º෴°ཀ)`═╕𓂃🦇‿་༘࿐𖥔｡𖦹⋆₊.✩˚݁݁✧
+#### `(═╕҂º෴°ཀ)`═╕ ( Yup, I did waste a couple of hrs playing with 𓉸ྀི`halloween`𓆩☠︎︎𓆪ྀི  / ೃ࿔`fall`࿔☘︎࿔ /& ༺`diwali`⋆༻ emojis ).
+---
+
 # Keerthana Purushotham ✨
-### 🧛‍♀️🪄 *`Software Developer`* 🧟🧝🏽‍♀️ *`Engineer`* 🧚🏼‍♀️🧞‍♀️ *`Researcher`* 🧹🧙🏽‍♀️
-> 🎆 Keerthana works at the intersection of **`AI`, `Distributed Systems`,** & **`Correctness**`**; exploring how large-scale intelligent systems can be made more **`reliable`, `interpretable`,** & **`aligned with design intent`**. Her work integrates research-driven inquiry with production-grade engineering.
+### 🧛‍♀️🪄 *`Software Developer`* 🧟🧝🏽‍♀️ *`Engineer`* 🧚🏼‍♀️🧞‍♀️ *`Researcher`* 🧙🏽‍♀️
+> 🪷𓂃🦇‿་༘࿐𖥔˖𖦹｡⋆˚✧
+> 
+> 🧹 Keerthana works at the intersection of **`AI`, `Distributed Systems`,** & **`Correctness**`**; exploring how large-scale intelligent systems can be made more **`reliable`, `interpretable`,** & **`aligned with design intent`**. Her work integrates research-driven inquiry with production-grade engineering.
 >
-> 🎇 She currently works at **`AWS`** in the **`Threat, Security & Vulnerability Management`** team for **`Amazon-Linux`** (*`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in `EC2`'s **`Kernels & Operating Systems`** org (*`KaOS`*).
+> 🪄 She currently works at **`AWS`** in the **`Threat, Security & Vulnerability Management`** team for **`Amazon-Linux`** (*`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in `EC2`'s **`Kernels & Operating Systems`** org (*`KaOS`*).
 > 
 > ---
 > #### 🅐 🍁**Resume, Portfolio & more:** ⋆𓆤˚𓃮｡˖𓋼𓍊.𓆏☆𓍊𓋼𓆈𓍊☆
 > ##### ➤ 🦃 See a ***`detailed compilation of her work`*** here 🥧 [***`keerthanap8898/bio`*** .𖥔 ݁ ˖🕸️👻.𖥔 ݁.](https://github.com/keerthanap8898/bio#-links)
-> ##### ➤ 🧨 Here's an ***`LM-chatbot`***, pre-trained on her profile 💥 [*`google-LM`*:***`AI Notebook`*** .˚⊹.🕷💀₊˚𖦹⋆.](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> ##### ➤ 🪔 Here's an ***`LM-chatbot`***, pre-trained on her profile 🧨 [*`google-LM`*:***`AI Notebook`*** .˚⊹.🕷💀₊˚𖦹⋆.](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 >```
-> 🪔 Feel free to privately query this LM-notebook about her work.
-> 🪷 You will need a gmail account.
+> 🎆 Feel free to privately query this LM-notebook about her work.
+> 🎇 You will need a gmail account.
 >```
 > ---
 > #### 🅑 🧌 **Focus Areas**: ⋆✩｡﹏𓃬𓂃.𓃮˚˖𓋼𓍊˚𓃮.﹏𓃮｡෴‿་༘
