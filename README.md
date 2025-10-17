@@ -45,9 +45,9 @@
 > ---
 ### 🅔 🎿 **`Career`**:
     𓂇𖧧𖠰ᨒ↟𓃬﹏↟𓂃𓃮ᨒ˚𖠰࣪↟𓃮﹏𓃮‿་༘
-> ```
-> 🍀 She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design. ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
-> ```
+
+    🍀 She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design. ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+
 ---
 
 
