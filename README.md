@@ -22,7 +22,7 @@
 ### 🅒 🎃 **`Selected Links`**: ⟢˚⋆.☆°｡𓆉｡❀°𓆝˚❀°｡𓆡☆｡⋆.݁݁✧𓇼
 > - 🪐 **Find her on**, [***`LinkedIn`***:*`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham);
 > 
-> - 👩🏽‍🚀 *OR*, Listen to **podcast-version** of it all (*made on googleLM - '.m4a' file on drive*): [*`google-LM`*:***`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view);
+> - 👩🏽‍🚀 *OR*, Listen to a **podcast-version** of it all (*made on googleLM - '.m4a' file on drive*): [*`google-LM`*:***`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view);
 > 
 > - ☄️ *OR*, check out her ***other social media***: ｡𓆟˚𓆞｡𓆝˚𓆟 
 >   - **🌒** [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ]
