@@ -1,5 +1,5 @@
 > ##### `(═╕҂º෴°ཀ)`═╕
-> *Yup, I did in fact, waste a couple of hrs playing with `𓉸ྀི݁ halloween`☠️⚰️ , `𓇢𓆸fall/winter༻`☕❄ , and `𖥔𖥸diwali`🪷🪔, emojis.* `˙𐃷˙`
+> *Yup, I did in fact, waste a couple of hrs playing with* 𓉸ྀི݁ *`halloween`* ☠️⚰️ , 𓇢𓆸 *`fall/winter`* ༻☕❄ *, and* 𖥔𖥸 *`diwali`* 🪷🪔 *emojis.* `˙𐃷˙`
 >
 > ---
 
