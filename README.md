@@ -1,4 +1,4 @@
-##### `(═╕҂º෴°ཀ)` ྀི═╕ ( Yup, I did waste a couple of hrs playing with `halloween𓉸ྀི݁`☠️🍬 , `fall࿔/winter༻`♨❄ , & `diwali𖥸`🪷🪔, emojis ).
+##### `(═╕҂º෴°ཀ)` ྀི═╕ ( Yup, I did waste a couple of hrs playing with `halloween𓉸ྀི݁`☠️🍬 , `fall࿔/winter༻`♨❄ , & `diwali𖥸`🪷🪔, emojis. /`[˙𐃷˙/]` ྀི )
 ---
 
 # Keerthana Purushotham ✨
@@ -38,7 +38,7 @@
 > ---
 > #### 🅔 🍀**Career**: 𓇢𓆸𖤣𖥧✧˚𖡼𓅰⋅𓅭⋅𓅮⋅𓅯𖡼｡✧𖤣𖥧✧
 > ```
-> 💫 She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design. ˙ᵕ˙
+> 💫 She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design. 
 > ```
-> ˙𐃷˙
+> ~ `[/˙ᵕ˙]` ྀི/ ~
 
