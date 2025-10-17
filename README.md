@@ -25,7 +25,7 @@
 > 
 > 👽 *OR*, check out her ***other social media***: ｡𓆟˚𓆞｡𓆝˚𓆟 
 > - **🌒** [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ]
-> - **🌓** 🗡️ *[`Medium`](https://medium.com/@keerthanapurushotham)* ***♮*** ⚔️ *[`Substack`](https://substack.com/@keerthanapurushotham)* [ *open-source articles* ]
+> - **🌓** 🗡️ *[`Medium`](https://medium.com/@keerthanapurushotham)* ⚔️ *[`Substack`](https://substack.com/@keerthanapurushotham)* [ *open-source articles* ]
 > - **🌔** [*`Instagram ˠ @kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 > ---
 > #### 🅒 🕯️ **Technical Interests** ☆𓋼𓍊₊⋆˚𖥔 𓃙⋅𓃠⋅𓃥⋅𓃚 𖥔˚✧𓍊𓋼✩
