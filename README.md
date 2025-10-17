@@ -4,7 +4,7 @@
 > 
 > She currently work at AWS in the Threat & Vulnerability Management team for Amazon-Linux (*including distros - AL12, AL1, AL2, AL2023, etc.*) in EC2's Kernels & Operating systems org (KaOS).
 #### 🅐 See a `detailed compilation` of her work here - [***`keerthanap8898/bio`***](https://github.com/keerthanap8898/bio#-links)
-#### 🅑 Here's an - ***`LM-chatbot`***, pre-trained on her profile. - [***`Google LM - Notebook`***](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+#### 🅑 Here's an ***`LM-chatbot`***, pre-trained on her profile. - [***`Google LM - Notebook`***](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > *Feel free to privately query this LM-botebook about her work. You will need a gmail account.*
 #### 🅒 **➤ Focus Areas** :
 > *non-exclusively,* ⓵ *`Correctness & robustness in AI & distributed systems`* | ⓶ *`Scalable, fault-tolerant architecture design`* | ⓷ *`Systems reasoning, verification, & interpretability`* | ⓸ *`Research-informed engineering practice`.*
