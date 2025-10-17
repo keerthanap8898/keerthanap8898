@@ -1,5 +1,5 @@
 > > ### `(═╕҂º෴°ཀ)`═╕
-> > *Yup, I did in fact, waste a couple of hrs playing with emojis for -* 𓉸ྀི݁ *`halloween`* ☠️⚰️ , 𓇢𓆸 *`fall/winter`* ༻☕❄ *, &* 𖥔𖥸 *`diwali`* 🪷🪔 *.* `˙𐃷˙`
+> > *Yup, I did in fact, waste a couple of hours playing with emojis for -* 𓉸ྀི݁ *`halloween`* ☠️⚰️ , 𓇢𓆸 *`fall/winter`* ༻☕❄ *, &* 𖥔𖥸 *`diwali`* 🪷🪔 *.* `˙𐃷˙`
 > ---
 # ➯ Keerthana Purushotham ✨
 > ### 🧛‍♀️༚🧙🏽‍♀️ *`Software Developer`* 🧟༚🧝🏽‍♀️ *`Engineer`* 🧚🏼‍♀️༚🧞‍♀️ *`Researcher`* ༚🔮𓂃🦇‿་༘࿐𖥔˖𖦹｡⋆˚✧
@@ -10,10 +10,12 @@
  
 ---
 ### 🅐 🐿️ **`Resume, Portfolio & more`:** ☘︎｡⋆𓆤༉𓏲𖥔༚༝༚ ༘દၴ( ၴႅၴ𓏲𓍊ּ˖﹏𓆏࿐｡☆↟𖠰.𓆈ˎ˗｡༝𓍊𓏲༚.ཐི༏ཋྀ༄ ྀ 
-> - #### 🎆 *See a **`detailed compilation of her work`** here* 🧨 [***`keerthanap8898/bio`*** .𖥔 ݁ ˖🕸️👻.𖥔 ݁.](https://github.com/keerthanap8898/bio#-links).
-> - #### 🎇 *Here's an **`LM-chatbot`**, pre-trained on her profile* 💥 [*`google-LM`*:***`AI Notebook`*** .˚⊹.🕷💀₊˚𖦹⋆.](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655).
->   - 🦃 *Feel free to privately query this LM-notebook about her work.*
->    - 🥧 *You will need a gmail account.*
+- #### 🎆 *See a **`detailed compilation of her work`** here* 🧨 [***`keerthanap8898/bio`*** .𖥔 ݁ ˖🕸️👻.𖥔 ݁.](https://github.com/keerthanap8898/bio#-links).
+- #### 🎇 *Here's an **`LM-chatbot`**, pre-trained on her profile* 💥 [*`google-LM`*:***`AI Notebook`*** .˚⊹.🕷💀₊˚𖦹⋆.](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
+>   ╰┈┈> 🦃 *Feel free to privately query this LM-notebook about her work.*
+>     
+>   ╰┈┈> 🥧 *You will need a gmail account.*
+> 
 > ---
 ### 🅑 🧣 **`Focus Areas`**: ⋆˙𖠰ᨒ↟𓃬﹏↟𓂃𓃮ᨒ˚𖠰࣪↟𓃮﹏𓃮‿་༘
 > 🍁🍂 *non-exclusively,* 🌘 `Correctness & robustness in AI & distributed systems`  ‖  🌗 `Scalable, fault-tolerant architecture design`  ‖  🌓 `Systems reasoning, verification, & interpretability`  ‖  🌒 `Research-informed engineering practice`.
