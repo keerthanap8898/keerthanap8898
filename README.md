@@ -1,4 +1,4 @@
-#### `(═╕҂º෴°ཀ)`═╕ ( Yup, I did waste a couple of hrs playing with 𓉸ྀི`halloween`𓆩☠︎︎𓆪ྀི  / ೃ࿔`fall`࿔☘︎࿔ /& ༺`diwali`⋆༻ emojis ).
+##### `(═╕҂º෴°ཀ)` ྀི═╕ ( Yup, I did waste a couple of hours playing with `halloween𓉸ྀི݁𓆩☠︎︎𓆪`,`fall࿔☘︎ೃ࿔` & `diwali༻⊹˚.⋆` emojis ).
 ---
 
 # Keerthana Purushotham ✨
