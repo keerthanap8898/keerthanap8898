@@ -1,4 +1,4 @@
-##### `(═╕҂º෴°ཀ)`═╕ Yup, I did waste a couple of hrs playing with `halloween𓉸ྀི݁`☠️🍬 , `fall࿔/winter༻`♨❄ , & `diwali𖥸`🪷🪔, emojis. `˙𐃷˙`
+##### `(═╕҂º෴°ཀ)`═╕ Yup, I did in fact, waste a couple of hrs playing with `𓉸ྀི݁ halloween`☠️⚰️ , `𓇢𓆸fall/winter༻`☕❄ , & `𖥔𖥸diwali`🪷🪔, emojis. `˙𐃷˙`
 ---
 
 # Keerthana Purushotham ✨
@@ -10,7 +10,7 @@
 > 🪄 She currently works at **`AWS`** in the **`Threat, Security & Vulnerability Management`** team for **`Amazon-Linux`** (*`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in `EC2`'s **`Kernels & Operating Systems`** org (*`KaOS`*).
 > 
 > ---
-> #### 🅐 **Resume, Portfolio & more:** ☘︎｡⋆𓆤༉𓏲༝༚༝༚ ༘દ>ၴ( ၴႅၴ𓏲ּ𓍊ּ˖﹏𓆏࿐｡☆↟𖠰.𓆈ˎ˗𓏲༝｡𓍊༚.ཐི༏ཋྀ༄ ྀ 
+> #### 🅐 **Resume, Portfolio & more:** ☘︎｡⋆𓆤༉𓏲𖥔༚༝༚ ༘દၴ( ၴႅၴ𓏲𓍊ּ˖﹏𓆏࿐｡☆↟𖠰.𓆈ˎ˗｡༝𓍊𓏲༚.ཐི༏ཋྀ༄ ྀ 
 > ##### ➤ 🦃 See a ***`detailed compilation of her work`*** here 🥧 [***`keerthanap8898/bio`*** .𖥔 ݁ ˖🕸️👻.𖥔 ݁.](https://github.com/keerthanap8898/bio#-links)
 > ##### ➤ 🧨 Here's an ***`LM-chatbot`***, pre-trained on her profile 💥 [*`google-LM`*:***`AI Notebook`*** .˚⊹.🕷💀₊˚𖦹⋆.](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 >```
