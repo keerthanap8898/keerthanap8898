@@ -1,6 +1,6 @@
 ### `Keerthana Purushotham`
 ##### *`Software Developer`* • *`Engineer`* • *`Researcher`*
-> *Keerthana works at the intersection of **AI, distributed systems, & correctness**, exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent. Her work integrates research-driven inquiry with production-grade engineering.*
+> *Keerthana works at the intersection of **AI, distributed systems, & correctness**, exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent. Her work integrates research-driven inquiry with production-grade engineering. she currently work at AWS in the Threat & Vulnerability team for Amazon Linux in the EC2, Kernels & Operating systems org (KaOS).*
 #### 🅐 See a `detailed compilation` of her work here - [***`keerthanap8898/bio`***](https://github.com/keerthanap8898/bio#-links)
 #### 🅑 Here's an - ***`LM-chatbot`***, pre-trained on her profile. - [***`Google LM - Notebook`***](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > *Feel free to privately query this LM-botebook about her work. You will need a gmail account.*
