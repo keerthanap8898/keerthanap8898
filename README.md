@@ -16,7 +16,7 @@
 ### 🅐 🐿️ **`Resume, Portfolio & more`:**
     ﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛
 - ### ₊𖥔⁀🎆 *See a full **`compilation of her work`** at* \`🧨⋆˚࿔ˊ˗ [*`keerthanap8898/bio`*`⎙ ︴✧ﾟ𖤐.☾⋆˙༝🕸️👻`](https://github.com/keerthanap8898/bio#-links);
-- ### ⋆✮⁀🎇 *Here's a **`google-LM notebook`**, pre-trained on her bio* \`💥༝ˎ˗ [*`AI-chatbot`*`⚛ ︴༚˚⊹｡🕷💀`](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
+- ### ⋆✮⁀🎇 *Here's a **`google-LM notebook`**, pre-trained on her info* \`💥༝ˎ˗ [*`AI-chatbot`*`⚛ ︴༚˚⊹｡🕷💀`](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
 >   ╰┈┈> 🦃 *Feel free to privately query this LM-notebook about her work.*
 >     
 >   ╰┈┈> 🥧 *You will need a gmail account.*
