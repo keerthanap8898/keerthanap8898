@@ -17,7 +17,7 @@
 ➊ [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) - *Publication pre-prints* | ➋ [*`Medium`*](https://medium.com/@keerthanapurushotham) & [*`Substack`*](https://substack.com/@keerthanapurushotham) - *Blogs & articles* | ➌ [*`Instagram - @kp_artses`*](https://instagram.com/kp_artses) - *Art portfolio*.
 #### 🅔 **➤ Technical Interests** : 
 > *non-exclusively,* ⓵ *`AI System Reliability`* | ⓶ *`Distributed Computing`* | ⓷ *`Scalable Machine Learning Infrastructure`* | ⓸ *`Program Analysis`* | ⓹ *`Dataflow Optimization`* | ⓺ *`Systems for Alignment & Verification`.*
-#### 🅕 **➤Other** :
+#### 🅕 **➤ Career** :
 ```
 She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design.
 ```
