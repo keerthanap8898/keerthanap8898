@@ -1,6 +1,6 @@
 > > #### `(═╕҂º෴°ˣཀ)═╕`
 > > ```
-> > Yup. I did in fact, waste a couple of hours playing with emojis for - 𓉸ྀི݁ halloween☠️⚰️ , 𓇢𓆸fall/winter༻❄️⛸️ , and 𖥔𖥸diwali🪷🪔 .
+> > Yup. I did in fact, waste a couple of hours playing with emojis for 𓉸ྀི݁ halloween☠️⚰️ , 𓇢𓆸fall/winter༻❄️⛸️ , and 𖥔𖥸diwali🪷🪔 .
 > > ```
 > `˙𐃷˙`
 > 
