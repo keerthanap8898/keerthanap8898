@@ -2,7 +2,7 @@
 
 • ***`Software Developer`*** | ***`Engineer`*** | ***`Researcher`*** •
 > Keerthana works at the intersection of **AI, distributed systems, & correctness**, exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent. Her work integrates research-driven inquiry with production-grade engineering.
-> - See a more detailed breakdown here - [**`keerthanap8898/bio`**](https://github.com/keerthanap8898/bio)  .
+> - See a more detailed breakdown here - [**`keerthanap8898/bio`**](https://github.com/keerthanap8898/bio#-links)  .
 
  **➤ Focus Areas** : *non-exclusively,*
 ① *`Correctness & robustness in AI & distributed systems`* |  ② *`Scalable, fault-tolerant architecture design`* |  ③ *`Systems reasoning, verification, & interpretability`* |  ④ *`Research-informed engineering practice`.*
