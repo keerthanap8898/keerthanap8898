@@ -1,5 +1,5 @@
-### `(ˣ෴ˣ)` `Keerthana Purushotham`𓂃🦇‿་༘࿐𖦹⋆₊.✩ ݁݁
-##### 🕯️ *`Software Developer`* 🪄 *`Engineer`* 🧹 *`Researcher`* 𖥔°✧☘︎
+### `(ˣ෴ˣ)` `Keerthana Purushotham`𓂃🦇‿་༘࿐𖥔°𖦹⋆₊.✩ ݁݁✧
+##### 🕯️ *`Software Developer`* 🪄 *`Engineer`* 🧹 *`Researcher`* 🍀
 > Keerthana works at the intersection of **AI, distributed systems, & correctness**, exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent. Her work integrates research-driven inquiry with production-grade engineering.
 > 
 > She currently work at AWS in the Threat & Vulnerability Management team for Amazon-Linux (*including distros - AL12, AL1, AL2, AL2023, etc.*) in EC2's Kernels & Operating systems org (KaOS).
