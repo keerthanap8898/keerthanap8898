@@ -23,14 +23,14 @@
 > 
 > ---
 > #### 🅒 🎃**Selected Links**: ⟢˚⋆.☆°｡𓆉｡❀°𓆝˚❀°｡𓆡☆｡⋆.݁݁✧𓇼
-> 🪐 **Find her on**, [***`LinkedIn`***:*`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham);
+> - 🪐 **Find her on**, [***`LinkedIn`***:*`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham);
 > 
-> 👩🏽‍🚀 *OR*, Listen to **podcast-version** of it all (*made on googleLM - '.m4a' file on drive*): [*`google-LM`*:***`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view);
+> - 👩🏽‍🚀 *OR*, Listen to **podcast-version** of it all (*made on googleLM - '.m4a' file on drive*): [*`google-LM`*:***`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view);
 > 
-> ☄️ *OR*, check out her ***other social media***: ｡𓆟˚𓆞｡𓆝˚𓆟 
-> - **🌒** [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ]
-> - **🌓** 🗡️ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** ⚔️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** [ *open-source articles* ]
-> - **🌔** [***`Instagram`***:*`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
+> - ☄️ *OR*, check out her ***other social media***: ｡𓆟˚𓆞｡𓆝˚𓆟 
+>   - **🌒** [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ]
+>   - **🌓** 🗡️ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** ⚔️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** [ *open-source articles* ]
+>   - **🌔** [***`Instagram`***:*`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 > ---
 > #### 🅓 🕯️**Technical Interests**: ✩𓋼𓍊₊⋆˚𖥔 𓃙⋅𓃠⋅𓃥⋅𓃚 𖥔｡✧𓍊𓋼✩
 > 🍁🍂 *non-exclusively,* 🌘 `AI System Reliability`  ‖   🌗 `Distributed Computing`  ‖   🌖 `Scalable Machine Learning Infrastructure`  ‖   🌔 `Program Analysis`  ‖  🌓 `Dataflow Optimization`  ‖   🌒 `Systems for Alignment & Verification`.
