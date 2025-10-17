@@ -39,6 +39,6 @@
 > ```
 > 🍀 She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design. 
 > ```
-> 💫 `[˙ᵕ˙]` ྀི
-> ---
+---
+
 
