@@ -10,7 +10,7 @@
 > 
  🧹 Keerthana works at the intersection of **`AI`, `Distributed Systems`,** & **`Correctness**`**; exploring how large-scale intelligent systems can be made more **`reliable`, `interpretable`,** & **`aligned with design intent`**. Her work integrates research-driven inquiry with production-grade engineering.
 
- 🪄 She currently works at **`AWS`** in the **`Threat, Security & Vulnerability Management`** team for **`Amazon-Linux`** (*`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in `EC2`'s **`Kernels & Operating Systems`** org (*`KaOS`*).
+ 🪄 She currently works at **`AWS`** in the **`Threat, Security & Vulnerability Management`** team for **`Amazon-Linux`** ( *`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in **`EC2`**'s **`Kernels & Operating Systems`** org ( *`KaOS`* ).
  
 ---
 ### 🅐 🐿️ **`Resume, Portfolio & more`:** ☘︎｡⋆𓆤༉𓏲𖥔༚༝༚ ༘દၴ( ၴႅၴ𓏲𓍊ּ˖﹏𓆏࿐｡☆↟𖠰.𓆈ˎ˗｡༝𓍊𓏲༚.ཐི༏ཋྀ༄ ྀ 
@@ -26,14 +26,14 @@
 > 
 > ---
 ### 🅒 🎃 **`Selected Links`**: ⟢˚⋆.☆°｡𓆉｡❀°𓆝˚❀°｡𓆡☆｡⋆.݁݁✧𓇼
-> - 🪐 **Find her on**, [***`LinkedIn`***:*`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham);
+> - **𒅒 Find her on** [**`LinkedIn`**:*`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham),
 > 
-> - 👩🏽‍🚀 *OR*, Listen to a **podcast-version** of it all (*made on googleLM - '.m4a' file on drive*): [*`google-LM`*:***`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view);
-> 
-> - ☄️ *OR*, check out her ***other social media***: ｡𓆟˚𓆞｡𓆝˚𓆟 
->   - **🌒** [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ]
->   - **🌓** 🗡️ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** ⚔️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** [ *Open-source articles* ]
->   - **🌔** [***`Instagram`***:*`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
+> - **𒈔** *OR*, Listen to a **podcast-version** of it all: [*`google-LM`*:***`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view),
+>   - 𒇫 (*made on googleLM - '.m4a' file on drive*);
+> - **𒄆** *OR*, check out her **other social media**: ｡𓆟˚𓆞｡𓆝˚𓆟 
+>   - **🌒** [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ],
+>   - **🌓** 🗡️ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** ⚔️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** [ *Open-source articles* ],
+>   - **🌔** [*`Instagram`*:*`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 > ---
 ### 🅓 🕯️ **`Technical Interests`**: ✩𓋼𓍊₊⋆˚𖥔 𓃙⋅𓃠⋅𓃥⋅𓃚 𖥔｡✧𓍊𓋼✩
 > 🍁🍂 *non-exclusively,* 🌘 `AI System Reliability`  ‖   🌗 `Distributed Computing`  ‖   🌖 `Scalable Machine Learning Infrastructure`  ‖   🌔 `Program Analysis`  ‖  🌓 `Dataflow Optimization`  ‖   🌒 `Systems for Alignment & Verification`.
