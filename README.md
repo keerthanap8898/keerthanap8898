@@ -14,9 +14,9 @@
 > ⓶ *OR*, Listen to **podcast-version** of it all (*made on googleLM - '.m4a' file on drive*): [`Google LM Audio Summary`](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view);
 > 
 > ⓷ *OR*, check out her ***other social media***:
-> - **➊** [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ]
-> - **➋** *Ⓐ [`Medium`](https://medium.com/@keerthanapurushotham)* *೬* *Ⓑ [`Substack`](https://substack.com/@keerthanapurushotham)* [ *open-source articles* ]
-> - **➌** [*`Instagram ˠ @kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
+> - **➊**) [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ]
+> - **➋**) Ⓐ *[`Medium`](https://medium.com/@keerthanapurushotham)* ***♮*** Ⓑ *[`Substack`](https://substack.com/@keerthanapurushotham)* [ *open-source articles* ]
+> - **➌**) [*`Instagram ˠ @kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 #### 🅔 **➤ Technical Interests** : 
 > *non-exclusively -*  ⓵ `AI System Reliability` ‖   ⓶ `Distributed Computing` ‖   ⓷ `Scalable Machine Learning Infrastructure` ‖   ⓸ `Program Analysis` ‖  ⓹ `Dataflow Optimization` ‖   ⓺ `Systems for Alignment & Verification`.
 #### 🅕 **➤ Career** :
