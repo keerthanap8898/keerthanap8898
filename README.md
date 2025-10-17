@@ -16,7 +16,7 @@
 >    - 🥧 *You will need a gmail account.*
 > ---
 ### 🅑 🧣 **`Focus Areas`**: ⋆˙𖠰ᨒ↟𓃬﹏↟𓂃𓃮ᨒ˚𖠰࣪↟𓃮﹏𓃮‿་༘
-> 🍁🍂 *non-exclusively,* 🌘 `Correctness & robustness in AI & distributed systems`  ‖  🌗 `Scalable, fault-tolerant architecture design`  ‖  🌖 `Systems reasoning, verification, & interpretability`  ‖  🌔 `Research-informed engineering practice`.
+> 🍁🍂 *non-exclusively,* 🌘 `Correctness & robustness in AI & distributed systems`  ‖  🌗 `Scalable, fault-tolerant architecture design`  ‖  🌓 `Systems reasoning, verification, & interpretability`  ‖  🌒 `Research-informed engineering practice`.
 > 
 > ---
 ### 🅒 🎃 **`Selected Links`**: ⟢˚⋆.☆°｡𓆉｡❀°𓆝˚❀°｡𓆡☆｡⋆.݁݁✧𓇼
