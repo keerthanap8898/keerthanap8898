@@ -1,8 +1,7 @@
-> > #### `(═╕҂º෴°ˣཀ)═╕`
-> > ```
-> > Yes. I did in fact, waste a few hrs playing w emojis and then a couple more hours getting rid of the excess.
-> > ```
-> 
+> #### `(═╕҂º෴°ˣཀ)═╕`
+> ```
+> Yes. I did in fact, waste a few hrs playing w emojis and then a couple more hours getting rid of the excess.
+> ```
 > ---
 # ➯ Keerthana Purushotham ✨
 > #### ༚ *`SDE`,* ༚ *`Researcher`,* ༚ *& `nerd`, evidently* ༄✧｡˖˚
