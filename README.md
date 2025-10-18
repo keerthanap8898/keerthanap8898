@@ -4,7 +4,7 @@
 > ```
 > ---
 # ➯ Keerthana Purushotham ✨
-> #### ༚ *`SDE`,* ༚ *`Researcher`,* ༚ *& `nerd`, evidently* ༄✧｡˖˚
+#### ༚ *`SDE`,* ༚ *`Researcher`,* ༚ *& `nerd`, evidently* ༄✧｡˖˚
 > 
  ✧ Keerthana works at the intersection of **`AI`, `Distributed Systems`,** & **`Correctness**`**; exploring how large-scale intelligent systems can be made more **`reliable`, `interpretable`,** & **`aligned with design intent`**. Her work integrates research-driven inquiry with production-grade engineering.
 
