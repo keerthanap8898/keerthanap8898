@@ -6,13 +6,13 @@
 >  ✧ She currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for **Amazon-Linux** ( *`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in **`EC2`**'s **Kernels & Operating Systems** org ( *`KaOS`* ).
 
 > ---
-#### 🅐]  **`Resume, Portfolio & more`:**
+#### 🅐]  **`Resume, Portfolio & more`:** 
 
-   [ **☁︎  ོ ☀︎ ✧ ࿔** ]┈ *See a full compilation of her work at* [***`⚭ github.com/keerthanap8898/bio ⎙`***`︴🕷`](https://github.com/keerthanap8898/bio#-links).
+   ॰ [ **☁︎  ོ ☀︎ ✧ ࿔** ]➢ *See a full compilation of her work at* [***`⚭ github.com/keerthanap8898/bio ⎙`***`︴🕷`](https://github.com/keerthanap8898/bio#-links).
    
-   [ **☁︎ ˖ ོ⋆ ⏾˚࿔** ]┈ *See this google-LM notebook, pre-trained on her profile at* [***`⚭ AI-chatbot ⚛`***`︴🕸️`](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
->   >  ╰┈┈☁︎  *Feel free to privately query this LM-notebook about her work.*   
->   >  ╰┈┈☁︎  *You will need a gmail account.* 
+   ॰ [ **☁︎ ˖ ོ⋆ ⏾˚࿔** ]➢ *See this google-LM notebook, pre-trained on her profile at* [***`⚭ AI-chatbot ⚛`***`︴🕸️`](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
+>   >  ╰┈┈┈┈☁︎  *Feel free to privately query this LM-notebook about her work.*   
+>   >  ╰┈┈┈┈☁︎  *You will need a gmail account.* 
 > ```
 > ⎯⎯✧ 𓋼𖧧˚°⚘𓃙˚𓃠｡𓃥￮𓃚'⚘.𓏲˚𓍊𓋼✧｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
 > ```
