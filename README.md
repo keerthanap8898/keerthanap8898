@@ -1,6 +1,6 @@
 # Keerthana Purushotham ✨
 ```
-◯ ☽ *`Computer Scientist`* ◐ *`Software Developer`* ◑ *`Research Engineer`* ❨ ☼
+◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >  ✧ Keerthana works at the intersection of **AI, Distributed Systems,** & **Correctness**; exploring how large-scale intelligent systems can be made more **reliable, interpretable,** & **aligned with design intent**. Her work integrates research-driven inquiry with production-grade engineering.
 > 
