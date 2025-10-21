@@ -1,5 +1,5 @@
  # Keerthana Purushotham ✨
-#### ◯ ☽ ◑ *`Computer Scientist`* ● *`Software Developer`* ● *`Research Engineer`* ◐ ❨ ◯
+#### ◯ ☽ ◑ *`Computer Scientist`* ● *`Software Developer`* ● *`Research Engineer`* ◐ ❨ ☼
 > 
 >  ✧ Keerthana works at the intersection of **AI, Distributed Systems,** & **Correctness**; exploring how large-scale intelligent systems can be made more **reliable, interpretable,** & **aligned with design intent**. Her work integrates research-driven inquiry with production-grade engineering.
 > 
@@ -9,16 +9,16 @@
 #### 🅐]  **`Resume, Portfolio & more`:**
 ##### ࿊ See a full **compilation of her work** at [*`⚭ github.com/keerthanap8898/bio`*`⎙︴🕷`](https://github.com/keerthanap8898/bio#-links).
 ##### ࿊ Here's a **google-LM notebook**, pre-trained on her info [*`⚭ AI-chatbot`*`⚛︴🕸️`](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655). 
->   ╰┈┈┈ ོ☼┈⇢ *Feel free to privately query this LM-notebook about her work.*
+>   ╰┈ ོ☀︎┈⇢ *Feel free to privately query this LM-notebook about her work.*
 >     
->   ╰┈┈┈ ོ☼┈⇢ *You will need a gmail account.* 
+>   ╰┈⏾  ོ┈⇢ *You will need a gmail account.* 
 > ```
-> ⎯⎯⟢𓋼𖧧˚°⚘𓃙˚𓃠｡𓃥￮𓃚'⚘.𓏲˚𓍊𓋼✧｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
+> ⎯⎯✧ 𓋼𖧧˚°⚘𓃙˚𓃠｡𓃥￮𓃚'⚘.𓏲˚𓍊𓋼✧｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
 > ```
 #### 🅑]  **`Focus Areas`**:
 >  *non-exclusively,*  ϟ  🌘 `Correctness & robustness in AI & distributed systems`  ϟ  🌗 `Scalable, fault-tolerant architecture design`  ϟ  🌓 `Systems reasoning, verification, & interpretability`  ϟ  🌒 `Research-informed engineering practice`.
 > ```
-> ⎯⎯✧𓇢𓆸𓇗⚘𖤣𖥧𓏲⋆ ✾.𓅰.𓅭.𓅮.𓅯.𖡼 ˚↟𖠰✧𖤣𖥧𖧧⋆ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
+> ⎯⎯✧ 𓇢𓆸𓇗⚘𖤣𖥧𓏲°✾.𓅰.𓅭.𓅮.𓅯.𖡼˚↟𖠰✧𖤣𖥧𖧧⋆ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
 > ```
 #### 🅒]  **`Selected Links`**:
 > - **𒅒** Find her on [**`LinkedIn ⚭`***`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham),
@@ -30,7 +30,7 @@
 >     - **𖣂**˗˗˗ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** 🗡️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** ⚔️ [ *Open-source articles* ],
 >     - **⚚ ┈** [*`Instagram ⚭ @kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 > ```
-> ⎯⎯⟢˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧𓇼 ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
+> ⎯⎯✧ ˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧𓇼 ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
 > ```
 #### 🅓]  **`Technical Interests`**:
 >  *non-exclusively,*  ϟ  🌘 `AI System Reliability`  ϟ   🌗 `Distributed Computing`  ϟ   🌖 `Scalable Machine Learning Infrastructure`  ϟ   🌔 `Program Analysis`  ϟ  🌓 `Dataflow Optimization`  ϟ   🌒 `Systems for Alignment & Verification`.
