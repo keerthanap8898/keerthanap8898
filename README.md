@@ -45,7 +45,8 @@
 
 > ---
 
-
-> #### `(⎯╕҂º෴°ˣཀ)⎯╕`
+> **`(⎯╕҂º෴°ˣཀ)⎯╕`** *Someday I'll quit messing with unicode symbols.*
+> 
+> *Not today though.*
 
 
