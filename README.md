@@ -7,17 +7,19 @@
 >  ✧ She currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for **Amazon-Linux** ( *`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in **`EC2`**'s **Kernels & Operating Systems** org ( *`KaOS`* ).
 > 
 > ---
-#### Ⓐ **`Key Links`** ➤
+#### Ⓐ **`Key Links` ( x2 )** ➤
 >   #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**]┈](https://github.com/keerthanap8898/bio#-links) See a **full compilation of her work** [@ ***`github.com/keerthanap8898/bio`***`︴⎙`. 🕷](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
->   ##### **╰┈┈┈┈┈┈☁︎** [*Resume, Portfolio & more .*](https://github.com/keerthanap8898/bio) 
-> ```
-> ⎯⎯✧ ˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧˚𓆞｡𓇼𓆝˚𓆟｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-> ```
+> >   ##### **╰┈┈┈┈┈┈☁︎** [*Resume, Portfolio & more .*](https://github.com/keerthanap8898/bio)
+> >
+> > ```
+> > ⎯⎯✧ ˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧˚𓆞｡𓇼𓆝˚𓆟｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+> > ```
 >   #### ❷ [[ **˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**]┈](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this google-LM notebook, pre-trained on her profile [@ ***`AI-chatbot`***`︴⚛`. 🕸️](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) 
->   ##### **╰┈┈┈┈┈┈☁︎**  [*Feel free to privately query it about her work . You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
-> ```
-> ⎯⎯✧ 𓋼𖧧˚°⚘𓃙˚𓃠｡𓃥￮𓃚'⚘.𓏲˚𓍊𓋼✧｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-> ```
+> >   ##### **╰┈┈┈┈┈┈☁︎**  [*Feel free to privately query it about her work . You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> > 
+> > ```
+> > ⎯⎯✧ 𓋼𖧧˚°⚘𓃙˚𓃠｡𓃥￮𓃚'⚘.𓏲˚𓍊𓋼✧｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+> > ```
 
 > ---
 #### Ⓑ  **`Networking`**:
@@ -36,11 +38,11 @@
 > ---
 #### Ⓒ  **`Focus Areas & Technical Interests`**:
 >  *Non-exclusively,*
->  - 🌑 **`AI System Reliability`**: Correctness & robustness in AI & distributed systems,
->  - 🌒 **`Distributed Computing`**: Scalable, fault-tolerant architecture design,
+>  - 🌕 **`AI System Reliability`**: Correctness & robustness in AI & distributed systems,
+>  - 🌔 **`Distributed Computing`**: Scalable, fault-tolerant architecture design,
 >  - 🌓 **`Scalable Machine Learning Infrastructure`**: Systems reasoning, verification, & interpretability,
->  - 🌔 **`Program Analysis & Dataflow Optimization`**: Research-informed engineering practice,
->  - 🌕 **`Systems for Alignment & Verification`**: Architecting provably-correct intelligent systems through formal methods, test-driven reasoning, and algorithmic accountability.
+>  - 🌒 **`Program Analysis & Dataflow Optimization`**: Research-informed engineering practice,
+>  - 🌑 **`Systems for Alignment & Verification`**: Architecting provably-correct intelligent systems through formal methods, test-driven reasoning, and algorithmic accountability.
 > ```
 > ⎯⎯✧ 𓇢𓆸𓇗⚘𖤣𖥧𓏲°✾.𓅰.𓅭.𓅮.𓅯.𖡼˚↟𖠰✧𖤣𖥧𖧧⋆ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
