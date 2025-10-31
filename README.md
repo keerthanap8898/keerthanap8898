@@ -1,4 +1,4 @@
-# Keerthana Purushotham ✨
+# Keerthana Purushotham
 ```
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
@@ -56,6 +56,6 @@
 >
 > ---
 ##### ᴘ.ꜱ.
-> *Someday she'll quit messing with unicode symbols. Not today though.*
+> *Someday she'll quit messing with unicode symbols. Not today though.* ✨
 
 
