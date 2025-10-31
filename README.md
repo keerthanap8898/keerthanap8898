@@ -55,7 +55,7 @@
 > ```
 >
 > ---
-##### ᴘ.ꜱ. ┈ **`(⎯╕҂º෴°ˣཀ)⎯╕`**
+##### ᴘ.ꜱ.
 > *Someday she'll quit messing with unicode symbols. Not today though.*
 
 
