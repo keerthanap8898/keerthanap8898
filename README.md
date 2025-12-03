@@ -29,7 +29,7 @@
 >     - **⚚ ┈**⋆ *\`.m4a\` file on drive, made on googleLM*;
 > - **𒇫**  *OR*, check out her **other social media**:
 >     - **𖥂˗˗˗**⋆ [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ],
->     - **𖣂**˗˗˗⋆ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** 🗡️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** ⚔️ [ *Open-source articles* ],
+>     - **𖣂**˗˗˗⋆ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** 🗡️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** ⚔️ ***<a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>*** [ *Open-source articles* ],
 >     - **⚚ ┈**⋆ [*`Instagram`***`⚭`***`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 > ```
 > ⎯⎯✧ 𓂇𖧧𖠰ᨒ↟𓃬﹏↟𓂃𓃮ᨒ˚𖠰࣪↟𓃮﹏𓃮‿་༘ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -57,6 +57,6 @@
 > ---
 ##### ᴘ.ꜱ.
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
-> <a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>
+> 
 
 
