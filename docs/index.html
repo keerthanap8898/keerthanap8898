@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+  <body style="font-family: system-ui; margin:0;">
+
+    <!-- Header -->
+    <header style="
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:1rem 2rem;
+      border-bottom:1px solid #e5e5e5;
+      background:#fff;
+    ">
+      <div>
+        <div style="font-weight:600;">
+          Keerthana's Website (WIP)
+        </div>
+        <!-- Added note under header -->
+        <div style="font-size:0.8rem; font-style:italic;">
+          TODO: pretty much everything.
+        </div>
+      </div>
+
+      <button 
+        style="
+          padding:.4rem 1rem;
+          border:1px solid #ccc;
+          background:#fff;
+          border-radius:6px;
+          cursor:pointer;
+        "
+        title="GitHub bio"
+      >
+        <a href="https://github.com/keerthanap8898/bio">
+          
+      </button>
+    </header>
+
+    <!-- Main content -->
+    <main style="max-width:720px; margin:2rem auto; padding:0 1rem;">
+
+      <h1>Keerthana's Text to Video → MVP</h1>
+      <h2>Demo Front-end (Not Live)</h2>
+
+      <h4>
+        See <a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>
+        
+        </a>
+      </h4>
+    </main>
+
+<!-- Footer -->
+<footer style="
+  margin-top:2rem;
+  padding:1.5rem 2rem;
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  font-size:0.85rem;
+  color:#666;
+  border-top:1px solid #e5e5e5;
+  background:#fff;
+  flex-wrap:wrap;
+  gap:1rem;
+">
+  <!-- Left: Copyright -->
+  <div style="text-align:left;">
+    Copyright (C) 2025 Keerthana Purushotham &lt;keep.consult@proton.me&gt;.<br>
+    See <a href="github.com/keerthanap8898"> for details.
+  </div>
+
+  <!-- Right: Links -->
+  <div style="text-align:right;">
+    <div>
+      <a 
+        href="https://github.com/keerthanap8898" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        style="color:#666; text-decoration:none; font-weight:500;"
+      >
+        github.com/keerthanap8898
+      </a>
+    </div>
+    <div style="margin-top:4px;">
+      <a 
+        href="https://linkedin.com/in/keerthanapurushotham" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        style="color:#666; text-decoration:none; font-weight:500;"
+      >
+        linkedin.com/in/keerthanapurushotham
+      </a>
+    </div>
+  </div>
+</footer>
+
+    <script>
+      const out = document.getElementById('out');
+
+      document.getElementById('f').onsubmit = async (e) => {
+        e.preventDefault();
+        const prompt = new FormData(e.target).get('prompt');
+
+        let r = await fetch('/jobs', {
+          method: 'POST',
+          headers: {'Content-Type':'application/json'},
+          body: JSON.stringify({prompt})
+        });
+
+        let { job_id } = await r.json();
+        out.textContent = 'job: ' + job_id + '\nPolling...';
+
+        let t = setInterval(async () => {
+          let s = await fetch('/jobs/' + job_id);
+          s = await s.json();
+          out.textContent = JSON.stringify(s, null, 2);
+
+          if (s.status === 'completed' && s.result_url) clearInterval(t);
+          if (s.status === 'failed') clearInterval(t);
+        }, 1500);
+      };
+
+      // Tooltip behavior
+      const input = document.getElementById('promptInput');
+      const tip = document.getElementById('tip');
+
+      input.addEventListener('focus', () => {
+        tip.style.display = 'block';
+      });
+
+      input.addEventListener('blur', () => {
+        tip.style.display = 'none';
+      });
+    </script>
+
+  </body>
+</html>
+
