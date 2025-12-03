@@ -57,5 +57,6 @@
 > ---
 ##### ᴘ.ꜱ.
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
+> <a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>
 
 
