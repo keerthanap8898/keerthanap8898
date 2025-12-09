@@ -67,15 +67,15 @@
 >
 > | **Sl.#** | **Category** | **Links** |
 > |------|----------|-----------------------------|
-> | 1. | **`Matrix` (** *fedora* **)** / **`Pagure`**  | [@***keepur:fedora.im***](https://fedoraproject.org/wiki/User:Keepur) / [*fedoraproject.org/**wiki/User:Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
-> | 2. | **`Fedora`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
-> | 3. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
-> | 4. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
-> | 5. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
-> | 6. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
-> | 7. | **`Medium`** / **`Substack`** | [***Medium**: @keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack**: @keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
-> | 8. | **`X` (** *twitter* **)** / **`Discord`** | [***X**: keepur8*](https://x.com/keepur8) / [***Discord**: **747152507184349195*** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
-> | 9. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
+> | ❶. | **`Matrix` (** *fedora* **)** / **`Pagure`**  | [@***keepur:fedora.im***](https://fedoraproject.org/wiki/User:Keepur) / [*fedoraproject.org/**wiki/User:Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
+> | ❷. | **`Fedora`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
+> | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
+> | ❹. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
+> | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
+> | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
+> | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
+> | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
+> | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
  
 > ---
 #### `P.S.`
