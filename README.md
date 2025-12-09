@@ -8,14 +8,15 @@
 > 
 > ---
 #### Ⓐ **`Key Links` ( x2 )** ➤
--   #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**]┈](https://github.com/keerthanap8898/bio#-links) See a **full compilation of her work** [@ ***`github.com/keerthanap8898/bio`*** .](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
-> >   ##### **╰┈┈┈┈┈┈☁︎** [*Resume, Portfolio & more .*](https://github.com/keerthanap8898/bio)
+> #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**] : ](https://github.com/keerthanap8898/bio#-links) See a **full compilation of her work** [@ **`github.com/keerthanap8898/bio`** .](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
+> >    - ***╰┈┈┈┈┈┈`☁︎`*** » [*Resume, Portfolio & more .*](https://github.com/keerthanap8898/bio)
 > >
 > > ```
 > > ⎯⎯✧ ˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧˚𓆞｡𓇼𓆝˚𓆟｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > > ```
--   #### ❷ [[ **˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**]┈](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this google-LM notebook, pre-trained on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) 
-> >   ##### **╰┈┈┈┈┈┈☁︎**  [*Feel free to privately query it about her work . You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this **google-LM notebook**, pre-trained on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) 
+> >    - ***╰┈┈┈┈┈┈`☁︎`*** » [*Feel free to privately query it about her work* ( *no will be able to see the history* ).](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> >    - ***╰┈┈┈┈┈┈`☁︎`*** » [*You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > > 
 > > ```
 > > ⎯⎯✧ 𓋼𖧧˚°⚘𓃦｡𓃙˚𓃠￮𓃥°𓃚'⚘.𓏲˚𓍊𓋼✧｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
