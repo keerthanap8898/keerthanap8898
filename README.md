@@ -23,14 +23,14 @@
 
 > ---
 #### Ⓑ  **`Networking`**:
-> - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham),
-> 
-> - **𒈔**  *OR*, Listen to a **podcast-version** of it all: [*`google-LM`***`⚭`*****`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view),
->     - **⚚ ┈**⋆ *\`.m4a\` file on drive, made on googleLM*;
-> - **𒇫**  *OR*, check out her **other social media**:
->     - **𖥂˗˗˗**⋆ [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ],
->     - **𖣂**˗˗˗⋆ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** 🗡️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** ⚔️ ***<a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>*** [ *Open-source articles* ],
->     - **⚚ ┈**⋆ [*`Instagram`***`⚭`***`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
+> > - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham),
+> > 
+> > - **𒈔**  *OR*, Listen to a **podcast-version** of it all: [*`google-LM`***`⚭`*****`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view),
+> >     - **⚚ ┈**⋆ *\`.m4a\` file on drive, made on googleLM*;
+> > - **𒇫**  *OR*, check out her **other social media**:
+> >     - **𖥂˗˗˗**⋆ [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ],
+> >     - **𖣂**˗˗˗⋆ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** 🗡️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** ⚔️ ***<a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>*** [ *Open-source articles* ],
+> >     - **⚚ ┈**⋆ [*`Instagram`***`⚭`***`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 > ```
 > ⎯⎯✧ 𓂇𖧧𖠰ᨒ↟𓃬﹏↟𓂃𓃮ᨒ˚𖠰࣪↟𓃮﹏𓃮‿་༘ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
@@ -38,25 +38,39 @@
 > ---
 #### Ⓒ  **`Focus Areas & Technical Interests`**:
 >  *Non-exclusively,*
->  - 🌕 **`AI System Reliability`**: Correctness & robustness in AI & distributed systems,
->  - 🌔 **`Distributed Computing`**: Scalable, fault-tolerant architecture design,
->  - 🌓 **`Scalable Machine Learning Infrastructure`**: Systems reasoning, verification, & interpretability,
->  - 🌒 **`Program Analysis & Dataflow Optimization`**: Research-informed engineering practice,
->  - 🌑 **`Systems for Alignment & Verification`**: Architecting provably-correct intelligent systems through formal methods, test-driven reasoning, and algorithmic accountability.
+> >  - 🌕 **`AI System Reliability`**: Correctness & robustness in AI & distributed systems,
+> >  - 🌔 **`Distributed Computing`**: Scalable, fault-tolerant architecture design,
+> >  - 🌓 **`Scalable Machine Learning Infrastructure`**: Systems reasoning, verification, & interpretability,
+> >  - 🌒 **`Program Analysis & Dataflow Optimization`**: Research-informed engineering practice,
+> >  - 🌑 **`Systems for Alignment & Verification`**: Architecting provably-correct intelligent systems through formal methods, test-driven reasoning, and algorithmic accountability.
 > ```
 > ⎯⎯✧ 𓇢𓆸𓇗⚘𖤣𖥧𓏲°✾.𓅰.𓅭.𓅮.𓅯.𖡼˚↟𖠰✧𖤣𖥧𓅪𖧧⋆ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
 
 > ---
 #### Ⓓ  **`Career`**:
-> *She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design*.
-> ```
-> ⎯⎯✧﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-> ```
+> > #### *She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design*.
+> >
+> > ```
+> > ⎯⎯✧﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+> > ```
+>
+> | **Sl.#** | **Category** | **Links** |
+> |------|----------|-----------------------------|
+> | 1. | **`Matrix` (** *fedora* **)** / **`Pagure`**  | [@***keepur:fedora.im***](https://fedoraproject.org/wiki/User:Keepur) / [*fedoraproject.org/**wiki/User:Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
+> | 2. | **`Fedora`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
+> | 3. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
+> | 4. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
+> | 5. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
+> | 6. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
+> | 7. | **`Medium`** / **`Substack`** | [***Medium**: @keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack**: @keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
+> | 8. | **`X` (** *twitter* **)** / **`Discord`** | [***X**: keepur8*](https://x.com/keepur8) / [***Discord**: **747152507184349195*** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
+> | 9. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
+ 
+> ---
+#### `P.S.`
+> *Someday she'll quit messing with unicode symbols. Not today though.* ✨
 >
 > ---
-##### ᴘ.ꜱ.
-> *Someday she'll quit messing with unicode symbols. Not today though.* ✨
-> 
 
 
