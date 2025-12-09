@@ -2,19 +2,23 @@
 ```
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
->  ✧ Keerthana works at the intersection of **AI, Distributed Systems,** & **Correctness**; exploring how large-scale intelligent systems can be made more **reliable, interpretable,** & **aligned with design intent**. Her work integrates research-driven inquiry with production-grade engineering.
+> ✧ Keerthana works at the intersection of **AI, Distributed Systems,** & **Correctness**; exploring how large-scale intelligent systems can be made more **reliable, interpretable,** & **aligned with design intent**. Her work integrates research-driven inquiry with production-grade engineering. She currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for **Amazon-Linux** ( *`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in **`EC2`**'s **Kernels & Operating Systems** org ( *`KaOS`* ). 
 > 
->  ✧ She currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for **Amazon-Linux** ( *`AL12`, `AL1`, `AL2`, `AL2023`, etc.*) in **`EC2`**'s **Kernels & Operating Systems** org ( *`KaOS`* ).
+> ✧ Keerthana has developed deep expertise in threat modeling and remediation, i.e, detecting new bugs and patching them; across more than 1,500 CVEs for multiple Amazon Linux (AL) distributions. These threat detections and patches regularly touched every single one of the millions of AWS instances deployed globally including EC2 servers and hypervisors during AL's fortnightly security releases (via automated tests spanning various linux VM instances offered by AWS) for packages whose vulnerability lifecycles she's managed end-to-end; (non-exclusively including packages like docker, kernel, openssl, nss, python, java, mozilla, etc., amongst those seen in the AL2023 release notes : [docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html), *& more*).
+> 
+> ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, and statistics. At AWS, she has integrated AWS CDK, C, Rust, Python, JavaScript, node.js, APIs, containers, load-balanced APIs and Lambdas running high frequency federated, throttled workflows orchestrating async requests to collect critical threat data as soon as they're relased and accurately evaluating them without delays to streamline engineering workflows and builds predictive automation tools for CVE evaluation, designs scalable cloud infrastructure, and supports threat detection for Amazon Linux. 
+> 
+> ✧ Keerthana's niche in AI, NLP, and computational statistics enables her to apply rigorous statistical methods to security analysis, threat modeling, and security R&D. She has also contributed significantly to system design efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from UCSD, she has built skills across NLP, recommender systems, cloud architectures, and has published research. She is seeking impactful roles where she can drive innovation at scale.
 > 
 > ---
 #### Ⓐ **`Key Links` ( x2 )** ➤
-> #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**] : ](https://github.com/keerthanap8898/bio#-links) See a **full compilation of her work** [@ **`github.com/keerthanap8898/bio`** .](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
+- #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**] : ](https://github.com/keerthanap8898/bio#-links) See a *full compilation* of her work [@ **`github.com/keerthanap8898/bio`** .](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
 > >    - ***╰┈┈┈┈`☁︎`*** » [*Resume, Portfolio & more .*](https://github.com/keerthanap8898/bio)
 > >
 > > ```
 > > ⎯⎯✧ ˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧˚𓆞｡𓇼𓆝˚𓆟｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > > ```
-> #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this **google-LM notebook**, pre-trained on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) 
+- #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this *Google-LM notebook*, *pre-trained* on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) 
 > >    - ***╰┈┈┈┈`☁︎`*** » [*Feel free to privately query it about her work* ( *no will be able to see the history* ).](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > >    - ***╰┈┈┈┈`☁︎`*** » [*You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > > 
