@@ -3,7 +3,7 @@
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >
-> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management*** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )**.
+> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management*** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
 >
 > ✧ As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including including- `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances etc., amongst others.
 >
@@ -13,31 +13,31 @@
 > ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs i.e., `CVE`(*s*) & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
 > > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including all of **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
 > > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS for packages whose vulnerability lifecycles she's managed end-to-end;
-> > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst all packages seen on `AL2023` ( *For reference, see release notes* : [***docs.aws.amazon.com/linux/al2023/release-notes**/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html) ), **& more**).
+> > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst all packages seen on `AL2023` & more.
+> >    ###### *For reference, see **`AL2023`'s release notes*** : [*docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html) .
+> >
+> ---
 > 
-> 
-> ***`She is seeking impactful roles where she can drive innovation at scale.`***
+> #### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
 > 
 > ---
-
-> ---
-#### Ⓐ **`Key Links` ( x2 )** ➤
-- #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**] : ](https://github.com/keerthanap8898/bio#-links) See a *full compilation* of her work [@ **`github.com/keerthanap8898/bio`** .](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
-> >    - ***╰┈┈┈┈`☁︎`*** » [*Resume, Portfolio & more .*](https://github.com/keerthanap8898/bio)
+### Ⓐ **`Key Links` ( x2 )** ➤
+> - #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**] : ](https://github.com/keerthanap8898/bio#-links) See a *full compilation* of her work [@ **`github.com/keerthanap8898/bio`** .](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
+> >    - ***╰┈┈┈┈`☁︎`*** [*Resume, Portfolio & more .*](https://github.com/keerthanap8898/bio)
 > >
 > > ```
 > > ⎯⎯✧ ˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧˚𓆞｡𓇼𓆝˚𓆟｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > > ```
-- #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this *Google-LM notebook*, *pre-trained* on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) 
-> >    - ***╰┈┈┈┈`☁︎`*** » [*Feel free to privately query it about her work* ( *no will be able to see the history* ).](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
-> >    - ***╰┈┈┈┈`☁︎`*** » [*You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> - #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this *Google-LM notebook*, *pre-trained* on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) 
+> >    - ***╰┈┈┈┈`☁︎`*** [*Feel free to privately query it about her work* ( *no will be able to see the history* ).](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> >    - ***╰┈┈┈┈`☁︎`*** [*You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > > 
 > > ```
 > > ⎯⎯✧ 𓋼𖧧˚°⚘𓃦｡𓃙˚𓃠￮𓃥°𓃚'⚘.𓏲˚𓍊𓋼✧｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > > ```
 
 > ---
-#### Ⓑ  **`Networking`**:
+### Ⓑ  **`Networking`**:
 > > - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham),
 > > 
 > > - **𒈔**  *OR*, Listen to a **podcast-version** of it all: [*`google-LM`***`⚭`*****`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view),
@@ -51,7 +51,7 @@
 > ```
 
 > ---
-#### Ⓒ  **`Focus Areas & Technical Interests`**:
+### Ⓒ  **`Focus Areas & Technical Interests`**:
 >  *Non-exclusively,*
 > >  - 🌕 **`AI System Reliability`**: Correctness & robustness in AI & distributed systems,
 > >  - 🌔 **`Distributed Computing`**: Scalable, fault-tolerant architecture design,
@@ -63,7 +63,7 @@
 > ```
 
 > ---
-#### Ⓓ  **`Career`**:
+### Ⓓ  **`Career`**:
 > #### *`She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design`*.
 > 
 > ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics.
@@ -79,21 +79,21 @@
 > ```
 
 > ---
-#### Ⓔ  **`Other Links`**:
-> > | **Sl.#** | **Category** | **Links** |
-> > |------|----------|-----------------------------|
-> > | ❶. | **`Matrix` (** *fedora* **)** / **`Pagure`**  | [@***keepur:fedora.im***](https://fedoraproject.org/wiki/User:Keepur) / [*fedoraproject.org/**wiki/User:Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
-> > | ❷. | **`Fedora`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
-> > | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
-> > | ❹. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
-> > | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
-> > | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
-> > | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
-> > | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
-> > | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
+### Ⓔ  **`Other Links`**:
+> | # | **`Category`** | **`Links`** |
+> |------|----------|-----------------------------|
+> | ❶. | **`Matrix` (** *fedora* **)** / **`Pagure`**  | [@***keepur**:fedora.im*](https://fedoraproject.org/wiki/User:Keepur) / [*fedoraproject.org/**wiki/User:Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
+> | ❷. | **`Fedora`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
+> | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
+> | ❹. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
+> | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
+> | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
+> | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
+> | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
+> | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
 >  
 > ---
-#### `P.S.`
+> ##### *`P.S.`*
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
 >
 
