@@ -7,7 +7,7 @@
 > > -  She works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
 > > - Her work integrates **research-driven inquiry with production-grade engineering**. 
 > 
-> ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
+> ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs i.e.,  `CVE`(*s*) & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
 > > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
 > > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS for packages whose vulnerability lifecycles she's managed end-to-end;
 > > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst those seen in the `AL2023` release notes : [***docs.aws.amazon.com/linux/al2023/release-notes**/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html), & **more**).
