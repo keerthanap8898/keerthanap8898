@@ -94,7 +94,7 @@
 > | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
 > | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
 >  
-> ---
+---
 > ##### *`P.S.`*
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
 >
