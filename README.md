@@ -71,9 +71,11 @@
 > > - She's also tasked with accurately evaluating thse bugs, finding &/or designing their corresponding patches from scratch if  unavailable- to design, plan and prove remediation plan, without delays.
 > > - A large part of her work also involves building **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
 > 
-> ✧ Keerthana's strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
+> ✧ Keerthana's strong computer science foundation from **UCSD**, enabled her to build deep expertise & skills across `NLP`, `recommender systems`, `Algorithms & Complexity Theory`, `Statistics`, `cloud architectures`, etc.
 > > - She has contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
+> >   
+> > ##### Between 2021 & 2025, she's successfully `published  multiple research articles` that have accumulated about **`50 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc.
 > ```
 > ⎯⎯✧﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
