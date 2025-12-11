@@ -16,6 +16,7 @@
 > > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including all of **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
 > > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS for packages whose vulnerability lifecycles she's managed end-to-end;
 > > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst all packages seen on `AL2023` & more.
+> > 
 > >    ###### *For reference, see **`AL2023`'s release notes*** : [*docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html) .
 > >
 > ---
