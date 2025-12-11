@@ -57,7 +57,7 @@
 > >  - 🌔 **`Distributed Computing`**: Scalable, fault-tolerant architecture design,
 > >  - 🌓 **`Scalable Machine Learning Infrastructure`**: Systems reasoning, verification, & interpretability,
 > >  - 🌒 **`Program Analysis & Dataflow Optimization`**: Research-informed engineering practice,
-> >  - 🌑 **`Systems for Alignment & Verification`**: Architecting provably-correct intelligent systems through formal methods, test-driven reasoning, and algorithmic accountability.
+> >  - 🌑 **`Systems for Alignment & Verification`**: Architecting provably-correct intelligent systems through formal methods, test-driven reasoning, & algorithmic accountability.
 > ```
 > ⎯⎯✧ 𓇢𓆸𓇗⚘𖤣𖥧𓏲°✾.𓅰.𓅭.𓅮.𓅯.𖡼˚↟𖠰✧𖤣𖥧𓅪𖧧⋆ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
@@ -68,7 +68,7 @@
 > 
 > ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics.
 > > - At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs & Lambdas`, running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests**, to collect **critical threat data** as soon as they're released; to streamline, plus reliably execute engineering workflows.
-> > - She's also tasked with accurately evaluating thse bugs, finding &/or designing their corresponding patches from scratch if  unavailable- to design, plan and prove remediation plan, without delays.
+> > - She's also tasked with accurately evaluating thse bugs, finding &/or designing their corresponding patches from scratch if  unavailable- to design, plan & prove remediation plan, without delays.
 > > - A large part of her work also involves building **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
 > 
 > ✧ Keerthana's strong computer science foundation from **UCSD**, enabled her to build deep expertise & skills across `NLP`, `recommender systems`, `Algorithms & Complexity Theory`, `Statistics`, `cloud architectures`, etc.
