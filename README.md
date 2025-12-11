@@ -48,6 +48,7 @@
 > >     - **𖥂˗˗˗**⋆ [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ],
 > >     - **𖣂**˗˗˗⋆ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** 🗡️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** ⚔️ ***<a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>*** [ *Open-source articles* ],
 > >     - **⚚ ┈**⋆ [*`Instagram`***`⚭`***`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
+>
 > ```
 > ⎯⎯✧ 𓂇𖧧𖠰ᨒ↟𓃬﹏↟𓂃𓃮ᨒ˚𖠰࣪↟𓃮﹏𓃮‿་༘ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
@@ -60,6 +61,7 @@
 > >  - 🌓 **`Scalable Machine Learning Infrastructure`**: Systems reasoning, verification, & interpretability,
 > >  - 🌒 **`Program Analysis & Dataflow Optimization`**: Research-informed engineering practice,
 > >  - 🌑 **`Systems for Alignment & Verification`**: Architecting provably-correct intelligent systems through formal methods, test-driven reasoning, & algorithmic accountability.
+>
 > ```
 > ⎯⎯✧ 𓇢𓆸𓇗⚘𖤣𖥧𓏲°✾.𓅰.𓅭.𓅮.𓅯.𖡼˚↟𖠰✧𖤣𖥧𓅪𖧧⋆ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
@@ -78,6 +80,7 @@
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
 > >   
 > > ##### Between 2021 & 2025, she's successfully `published multiple research articles` that have accumulated about **`50 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc.
+>
 > ```
 > ⎯⎯✧﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
