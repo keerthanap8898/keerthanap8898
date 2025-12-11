@@ -3,8 +3,9 @@
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >
-> ✧ Keerthana works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
-> > - Her work integrates **research-driven inquiry with production-grade engineering**. She currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for Amazon-Linux ( `AL12`, `AL1`, `AL2`, `AL2023`, etc.) in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )**
+> ✧ Keerthana currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for Amazon-Linux ( `AL12`, `AL1`, `AL2`, `AL2023`, etc.) in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )**.
+> > -  She works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
+> > - Her work integrates **research-driven inquiry with production-grade engineering**. 
 > 
 > ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
 > > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
