@@ -1,4 +1,6 @@
 # Keerthana Purushotham
+ 
+#### **˗ˏˋ ⭒  [keerthanap8898.github.io/keerthanap8898](https://keerthanap8898.github.io/keerthanap8898/)  ⭒ ˎˊ˗**
 ```
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
