@@ -5,7 +5,7 @@
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >
-> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management*** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
+> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
 >
 > ✧ As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including including- `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances etc., amongst others.
 >
