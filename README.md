@@ -106,6 +106,6 @@
 > ---
 > ##### *`P.S.`*
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
-> Follow me on LinkedIn: [*www.linkedin.com/search/results/all/?keywords=Keerthana%20purushotham%20linux*](https://www.linkedin.com/search/results/all/?keywords=Keerthana%20purushotham&origin=HISTORY&sid=06m#:~:text=2K%20followers-,Follow,-Keerthana%20Purushotham)
+> Follow me on LinkedIn: [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
 
 
