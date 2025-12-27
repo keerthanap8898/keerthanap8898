@@ -42,7 +42,7 @@
 
 > ---
 ### Ⓑ  **`Networking`**:
-> > - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](www.linkedin.com/in/keerthanapurushotham),
+> > - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham),
 > > 
 > > - **𒈔**  *OR*, Listen to a **podcast-version** of it all: [*`google-LM`***`⚭`*****`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view),
 > >     - **⚚ ┈**⋆ *\`.m4a\` file on drive, made on googleLM*;
