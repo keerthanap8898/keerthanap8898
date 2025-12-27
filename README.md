@@ -42,7 +42,7 @@
 
 > ---
 ### Ⓑ  **`Networking`**:
-> > - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=keerthanapurushotham),
+> > - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](www.linkedin.com/in/keerthanapurushotham),
 > > 
 > > - **𒈔**  *OR*, Listen to a **podcast-version** of it all: [*`google-LM`***`⚭`*****`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view),
 > >     - **⚚ ┈**⋆ *\`.m4a\` file on drive, made on googleLM*;
@@ -106,6 +106,6 @@
 > ---
 > ##### *`P.S.`*
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
-> Follow me on LinkedIn: [*linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=keerthanapurushotham*](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=keerthanapurushotham)
+> Follow me on LinkedIn: [*www.linkedin.com/search/results/all/?keywords=Keerthana%20purushotham%20linux*](https://www.linkedin.com/search/results/all/?keywords=Keerthana%20purushotham&origin=HISTORY&sid=06m#:~:text=2K%20followers-,Follow,-Keerthana%20Purushotham)
 
 
