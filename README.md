@@ -106,6 +106,6 @@
 > ---
 > ##### *`P.S.`*
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
-> Follow me on LinkedIn: [Follow me on LinkedIn: *linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=keerthanapurushotham*](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=keerthanapurushotham)
+> Follow me on LinkedIn: [*linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=keerthanapurushotham*](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=keerthanapurushotham)
 
 
