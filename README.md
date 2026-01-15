@@ -1,6 +1,6 @@
 ## `Keerthana Purushotham`
  
-#### **˗ˏˋ ⭒  [keerthanap8898.github.io/keerthanap8898](https://keerthanap8898.github.io/keerthanap8898/)  ⭒ ˎˊ˗**
+#### **˗ˏˋ ⭒  [github.com/stars/keerthanap8898/lists/for-the-recruiter](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)  ⭒ ˎˊ˗**
 ```
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
@@ -92,6 +92,7 @@
 >
 > > | # | **`Category`** | **`Links`** |
 > > |------|----------|-----------------------------|
+> > | ⓿. | **`RESUME`** & **`PORTFOLIO`**  | [***overleaf.com**/read/ttkbttqdtwhz#23974e*](https://www.overleaf.com/read/ttkbttqdtwhz#23974e) / [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU) |
 > > | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
 > > | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/User:**Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
 > > | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
