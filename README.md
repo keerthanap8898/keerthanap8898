@@ -33,7 +33,7 @@
 >
 > #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this *Google-LM notebook*, *pre-trained* on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > 
-> >    - ***╰┈┈┈┈`☁︎`*** [*Feel free to privately query it about her work* ( *no will be able to see the history* ).](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> >    - ***╰┈┈┈┈`☁︎`*** [*Feel free to privately query it about her work* ( *no one will be able to see the history* ).](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > >    - ***╰┈┈┈┈`☁︎`*** [*You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > > 
 > > ```
