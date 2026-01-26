@@ -107,7 +107,7 @@
 > ---
 > ##### *`P.S.`*
 > *Someday she'll quit messing with unicode symbols. Not today though.* ✨
->
-> *Follow her on LinkedIn*: [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
+> *Follow her on LinkedIn*: [*@keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
+> > [***Website***: *keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898)
 
 
