@@ -1,3 +1,8 @@
+#### ✧ ***`ALL DOCS`***
+> - #### ***`MS OneDrive Folder`***:
+>   - [***1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w***](https://1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w)
+
+---
 ## `Keerthana Purushotham`
  
 #### **˗ˏˋ ⭒  [github.com/stars/keerthanap8898/lists/for-the-recruiter](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)  ⭒ ˎˊ˗**
@@ -44,10 +49,10 @@
 ### Ⓑ  **`Networking`**:
 > > - **𒅒** Find her on [***`LinkedIn`*****`⚭`***`linkedin.com/in/keerthanapurushotham`*](https://linkedin.com/in/keerthanapurushotham),
 > > 
-> > - **𒈔**  *OR*, Listen to a **podcast-version** of it all: [*`google-LM`***`⚭`*****`Audio Summary`***](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view),
+> > - **𒈔**  *OR*, Listen to a **podcast-version** of it all: [*`google-LM`***`⚭`*****`Audio Summary`***](https://1drv.ms/u/c/0d09da568e931e81/IQAF-GdN828ZSo24jCo60FhdAR5VA454gnNFCU_haUGKhO4),
 > >     - **⚚ ┈**⋆ *\`.m4a\` file on drive, made on googleLM*;
 > > - **𒇫**  *OR*, check out her **other social media**:
-> >     - **𖥂˗˗˗**⋆ [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Publication pre-prints* ],
+> >     - **𖥂˗˗˗**⋆ ***[`Google Scholar `](https://scholar.google.com/citations?user=tWzF13sAAAAJ)*** 🗡️ [***`ResearchGate`***](https://www.researchgate.net/profile/Keerthana-Purushotham) [ *Citations & Publication pre-prints* ],
 > >     - **𖣂**˗˗˗⋆ ***[`Medium`](https://medium.com/@keerthanapurushotham)*** 🗡️ ***[`Substack`](https://substack.com/@keerthanapurushotham)*** ⚔️ ***<a rel="me" href="https://infosec.exchange/@keepur">Mastodon</a>*** [ *Open-source articles* ],
 > >     - **⚚ ┈**⋆ [*`Instagram`***`⚭`***`@kp_artses`*](https://instagram.com/kp_artses) [ *Art portfolio* ].
 >
@@ -73,15 +78,18 @@
 > #### *`She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design`*.
 > 
 > ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics.
-> > - At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs` & `Lambdas`, etc., running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests**, to collect **critical threat data** as soon as they're released; to streamline, plus reliably execute engineering workflows.
+> > - At AWS, she has worked a lot with tools & services like, `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs` & `Lambdas`, etc. She builds ***high frequency, global, federated, throttled*** workflows orchestrating **async requests**, to collect **critical threat data** as soon as they're released; to streamline, plus reliably execute engineering workflows.
 > > - She's also tasked with accurately evaluating these bugs, finding &/or designing their corresponding patches from scratch if unavailable- in order to design, plan & prove remediation plans for every CVE, without delay.
-> > - A large part of her work also involves building **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
+> > - A large part of her work also involves building **predictive automation tools for `CVE` evaluation**, designing **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
 > 
-> ✧ Keerthana's strong computer science foundation from **UCSD**, enabled her to build deep expertise & skills across `NLP`, `recommender systems`, `Algorithms & Complexity Theory`, `Statistics`, `cloud architectures`, etc.
-> > - She has contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses.
+> ✧ Keerthana's strong computer science foundation from **UCSD**, enabled her to develop deep expertise across `NLP`, `recommender systems`, `Algorithms & Complexity Theory`, `Statistics`, `cloud architectures`, etc.
+> > - She has contributed significantly to **system design** efforts, ensuring critical security information is incorporated into real-world defenses.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
 > >   
-> > ##### Between 2021 & 2025, she's successfully `published multiple research articles` that have accumulated about **`50 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc.
+> #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` that have accumulated over **`53 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc. as well as the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](scholar.google.com/scholar?as_sdt=7%2C31&as_vis=1&q=denoising+LAN+purushotham+patil+patent).
+>  
+> #### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://github.com/keerthanap8898/bio#:~:text=Accuracy%20Is%20Not%20Enough), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](first.org/conference/vulncon26); **⭒ ˎˊ˗** 
+> > - ##### *hosted by* [*first.org*](first.org/conference/vulncon26) & [*CVE.org*](cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
 >
 > ```
 > ⎯⎯✧﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -90,13 +98,16 @@
 > ---
 ### Ⓔ  **`Other Links`**:
 >
-> > | # | **`Category`** | **`Links`** |
+> ##### ➀ 🗓️ `Calendly`: [*calendly.com/keerthanap0808/30min*](https://calendly.com/keerthanap0808/30min)  
+> ##### ➁ 📧 `Email`: » [*keep.consult@proton.me*](mailto:keep.consult@proton.me) | » [*keerthanap0808.at.gmail.dot.com*](mailto:keerthanap0808@gmail.com)
+> ##### ➂ 📱 `Phone`: » [+*1 360-328-1182*](tel:+13603281182) | » [*USA eight-five-eight_203_8957*](tel:+18582038957)
+> > | # | **Category** | **Links** |
 > > |------|----------|-----------------------------|
-> > | ⓿. | **`RESUME`** & **`PORTFOLIO`**  | [***overleaf.com**/read/ttkbttqdtwhz#23974e*](https://www.overleaf.com/read/ttkbttqdtwhz#23974e) / [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU) |
+> > | ⓿. | **`RESUME`** & **`PORTFOLIO`**  | [***www.overleaf.com/read/ttkbttqdtwhz#23974e***](https://www.overleaf.com/read/ttkbttqdtwhz#23974e) / [***1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4***](https://1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4) |
 > > | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
-> > | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/User:**Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
+> > | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/user:**keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
 > > | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
-> > | ❹. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
+> > | ❹. | **`GitHub`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/stars/keerthanap8898/lists/for-the-recruiter) |
 > > | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
 > > | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
 > > | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
@@ -106,8 +117,12 @@
 > 
 > ---
 > ##### *`P.S.`*
-> *Someday she'll quit messing with unicode symbols. Not today though.* ✨
-> *Follow her on LinkedIn*: [*@keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
-> > [***Website***: *keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898)
+> *Someday she'll quit messing with unicode symbols.*
+> *Not today though.* ✨
+>
+> > - ***Follow her on LinkedIn***: [*@keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
+> > - ***IO Web-page version***: [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898)
+> >   - *I've yet to set up my other domain [`kp.co.za`](https://kp.co.za).*
+> >   - *We'll see when the time comes.* **🤷🏻‍♀️**
 
 
