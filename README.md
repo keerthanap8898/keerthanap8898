@@ -36,7 +36,7 @@
 > > ⎯⎯✧ ˚.☆°｡𓆉 ྀ￮°𓆝˚￮｡𓆡☆｡⋆.݁݁✧˚𓆞｡𓇼𓆝˚𓆟｡༚⋅ ✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > > ```
 >
-> #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this *Google-LM notebook*, *pre-trained* on her profile [@ ***`AI-chatbot`*** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+> #### ❷ [[**˖˚⋆. ݁݁ ⏾˚ ˖  ྀ ⋆**] : ](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655) See this *Google-LM notebook*, *pre-trained* on her profile [@ **`AI-chatbot`** .](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > 
 > >    - ***╰┈┈┈┈`☁︎`*** [*Feel free to privately query it about her work* ( *no one will be able to see the history* ).](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 > >    - ***╰┈┈┈┈`☁︎`*** [*You will need a gmail account .*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
@@ -86,7 +86,7 @@
 > > - She has contributed significantly to **system design** efforts, ensuring critical security information is incorporated into real-world defenses.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
 > >   
-> #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` that have accumulated over **`53 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc. as well as the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](scholar.google.com/scholar?as_sdt=7%2C31&as_vis=1&q=denoising+LAN+purushotham+patil+patent).
+> #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc., that have accumulated over **`53 citations`** as of 2025, including one in the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](scholar.google.com/scholar?as_sdt=7%2C31&as_vis=1&q=denoising+LAN+purushotham+patil+patent).
 >  
 > #### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://github.com/keerthanap8898/bio#:~:text=Accuracy%20Is%20Not%20Enough), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](first.org/conference/vulncon26); **⭒ ˎˊ˗** 
 > > - ##### *hosted by* [*first.org*](first.org/conference/vulncon26) & [*CVE.org*](cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
