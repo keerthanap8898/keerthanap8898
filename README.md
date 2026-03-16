@@ -86,7 +86,7 @@
 > > - She has contributed significantly to **system design** efforts, ensuring critical security information is incorporated into real-world defenses.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
 > >   
-> #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc., that have accumulated over **`53 citations`** as of 2025, including one in the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](scholar.google.com/scholar?as_sdt=7%2C31&as_vis=1&q=denoising+LAN+purushotham+patil+patent).
+> #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc., that have accumulated over **`53 citations`** as of 2025, including one in the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](https://1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w).
 >  
 > #### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://github.com/keerthanap8898/bio#:~:text=Accuracy%20Is%20Not%20Enough), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](first.org/conference/vulncon26); **⭒ ˎˊ˗** 
 > > - ##### *hosted by* [*first.org*](first.org/conference/vulncon26) & [*CVE.org*](cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
