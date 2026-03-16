@@ -86,10 +86,9 @@
 > > - She has contributed significantly to **system design** efforts, ensuring critical security information is incorporated into real-world defenses.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
 > >   
-> #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc., that have accumulated over **`53 citations`** as of 2025, including one in the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](https://1drv.ms/b/c/0D09DA568E931E81/ASSCaYpRJH1ApwRUDyWBbH4).
->  
-> #### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://www.first.org/conference/vulncon26/program#:~:text=TLP%3ACLEAR-,Accuracy%20Is%20Not%20Enough,-%3A%20Detecting%20Hidden%20Risk), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](https://www.first.org/conference/vulncon26); **⭒ ˎˊ˗** 
-> > - ##### *hosted by* [*first.org*](https://www.first.org) & [*CVE.org*](https://www.cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
+#### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc., that have accumulated over **`53 citations`** as of 2025, including one in the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](https://1drv.ms/b/c/0D09DA568E931E81/ASSCaYpRJH1ApwRUDyWBbH4).
+#### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://www.first.org/conference/vulncon26/program#:~:text=TLP%3ACLEAR-,Accuracy%20Is%20Not%20Enough,-%3A%20Detecting%20Hidden%20Risk), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](https://www.first.org/conference/vulncon26); **⭒ ˎˊ˗** 
+> ##### *hosted by* [*first.org*](https://www.first.org) & [*CVE.org*](https://www.cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
 >
 > ```
 > ⎯⎯✧﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
@@ -107,7 +106,7 @@
 > > | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
 > > | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/user:**keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
 > > | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
-> > | ❹. | **`GitHub`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/stars/keerthanap8898/lists/for-the-recruiter) |
+> > | ❹. | **`GitHub`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898/bio***](https://github.com/keerthanap8898/bio) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/stars/keerthanap8898/lists/for-the-recruiter) |
 > > | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
 > > | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
 > > | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
