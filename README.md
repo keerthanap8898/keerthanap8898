@@ -88,8 +88,7 @@
 > >   
 #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc., that have accumulated over **`53 citations`** as of 2025, including one in the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](https://1drv.ms/b/c/0D09DA568E931E81/ASSCaYpRJH1ApwRUDyWBbH4).
 #### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://www.first.org/conference/vulncon26/program#:~:text=TLP%3ACLEAR-,Accuracy%20Is%20Not%20Enough,-%3A%20Detecting%20Hidden%20Risk), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](https://www.first.org/conference/vulncon26); **⭒ ˎˊ˗** 
-> ##### *hosted by* [*first.org*](https://www.first.org) & [*CVE.org*](https://www.cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
->
+> ##### *hosted by* [*first.org*](https://www.first.org) & [*CVE.org*](https://www.cve.org) *in April, 2026*; *& she will be the **`solo author/speaker`.***
 > ```
 > ⎯⎯✧﹌𓆤༉𖧧𖥧𖤣. ༘༝ၴ( ၴႅၴ˖𓏲⚘ཐི༏ཋྀˎ ྀ𓏲𓇗𖤣﹏𓆏࿐⚘𖥧𖤣𓇗ˎˊˎˊ𓆈ˊˎ゛✧⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 > ```
