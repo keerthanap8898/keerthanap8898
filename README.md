@@ -10,7 +10,9 @@
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >
-> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
+> ✧ Keerthana is set to start working at **`Hydden Inc.`** as a Software developer in August 2026 conditional to Visa shenanigans 🤞🏼🤷🏻‍♀️.
+>
+> ✧ Keerthana prior worked at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** till April 2026.
 >
 > ✧ As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including, `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances, etc., amongst others.
 >
@@ -23,10 +25,6 @@
 > > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst all packages seen on `AL2023`, *& more*.
 > >      - *For reference, see **`AL2023`'s release notes*** : [*docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html) .
 > >
-> ---
-> 
-> #### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
-> 
 > ---
 ### Ⓐ **`Key Links` ( x2 )** ➤
 > #### ❶ [[**࿐ ོ 𓏲 ☀︎ ࿔**] : ](https://github.com/keerthanap8898/bio#-links) See a *full compilation* of her work [@ **`github.com/keerthanap8898/bio`** .](https://github.com/keerthanap8898/bio?tab=readme-ov-file#-links)
@@ -75,7 +73,7 @@
 
 > ---
 ### Ⓓ  **`Career`**:
-> #### *`She is open to conversations & new opportunities around AI systems research, reliability engineering, & correctness-oriented design`*.
+> #### *`She is open to conversations & opportunities around AI systems research, reliability engineering, & correctness-oriented design`*.
 > 
 > ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics.
 > > - At AWS, she has worked a lot with tools & services like, `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs` & `Lambdas`, etc. She builds ***high frequency, global, federated, throttled*** workflows orchestrating **async requests**, to collect **critical threat data** as soon as they're released; to streamline, plus reliably execute engineering workflows.
