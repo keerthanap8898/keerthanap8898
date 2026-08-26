@@ -10,9 +10,9 @@
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >
-> ✧ Keerthana is set to start working at *`nunyabiz`* as a Software developer in August 2026 conditional to Visa shenanigans 🤞🏼🤷🏻‍♀️.
+> ✧ Keerthana now works at *`Hydden`* as a Software developer as of August 2026.
 >
-> ✧ Keerthana prior worked at `Amazon Linux, AWS` in the **Threat, Security & Vulnerability Management** team ,in **EC2**'s **Kernels & Operating Systems** org ( `KaOS` ) till April 2026. As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including, `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances, etc., amongst others.
+> ✧ Keerthana prior worked at *`Amazon Linux, AWS`* in the **Threat, Security & Vulnerability Management** team ,in **EC2**'s **Kernels & Operating Systems** org ( `KaOS` ) till April 2026. As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including, `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances, etc., amongst others.
 >
 > > -  She works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
 > > - Her work integrates **research-driven inquiry with production-grade engineering**. 
