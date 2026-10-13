@@ -1,6 +1,6 @@
 #### ✧ ***`ALL DOCS`***
 > - #### ***`MS OneDrive Folder`***:
->   - [***1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w***](https://1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w)
+>   - [***1drv.ms/f/c/0d09da568e931e81/IgDeqD_dU7UrTbRvXrTO2PZxAaCNpWfYA__alxjxCgb2Wcs***](https://1drv.ms/f/c/0d09da568e931e81/IgDeqD_dU7UrTbRvXrTO2PZxAaCNpWfYA__alxjxCgb2Wcs)
 
 ---
 ## `Keerthana Purushotham`
@@ -9,9 +9,10 @@
 ```
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
-> I've been working on personal research ever since March 2026. If you know, you know. 😏
-> 
-> ✧ Nvm. **`Hydden`** was a mistake. I was there was there for no longer than a month in 2026. Abort mission. What was I thinking.
+> ✧ Most recently, I'm very glad to announce and share my provisional patent application. Here's a sneak-peek: 
+> > - [***`Receipt showing Title & Inventor`**: See this MS 1drv.ms document.*](https://1drv.ms/i/c/0d09da568e931e81/IQD-am5IniVkTptdO_sjtyOyAdApoSOMu-_NFrkYvlYPcKk)
+>
+> ✧ I've been working on personal research ever since April 2026 besides learning how emotional men are against my will. 🤦🏻‍♀️
 >
 > ✧ Keerthana worked at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management** team ,in **EC2**'s **Kernels & Operating Systems** org ( *`KaOS`* ) till April 2026. As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including, `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances, etc., amongst others.
 >
